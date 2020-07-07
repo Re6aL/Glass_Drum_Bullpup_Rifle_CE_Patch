@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Glass Bullup Rifle CE Patch</name>
+	<author>RE6AL</author>
+	
+	<url></url>
+	
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+      <packageId>Chowdurr.Glassdrumrifle</packageId>
+      <displayName>Glass-Drum Bullpup Rifle</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1967130419</steamWorkshopUrl>
+    </li>
+	</modDependencies>
+	<packageId>Chowdurr.Glassdrumrifle.CE.Patch</packageId>
+	
+	<description>
+Patches the weapon in Glass Bullup Rifle Mod to work with Combat Extended 2.0.  Must load after CE and Glass Rifle itself.
+    </description>
+</ModMetaData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <!-- ========= Glass Rifle sounds ============= -->
+
+  <SoundDef>
+    <defName>Interact_GlassDrumRifle</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Interact/Interact_GlassDrumRifle</clipPath>
+          </li>
+        </grains>      
+        <pitchRange>
+          <min>0.936413</min>        
+          <max>1.042391</max>
+        </pitchRange>     
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>Shot_GlassRifle</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>3</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Shot/Shot_GlassRifle</clipPath>
+          </li>
+        </grains>      
+        <pitchRange>
+          <min>0.936413</min>        
+          <max>1.042391</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+</Defs>
