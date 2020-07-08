@@ -5,19 +5,17 @@
 		<mods>
 			<li>Glass-Drum Bullpup Rifle</li>
 		</mods>
-		<match Class="PatchOperationSequence">
-			<success>Always</success>
-			<operations>
-
+			<match Class="PatchOperationSequence">
+		<success>Always</success>
+	<operations>
 	<li Class="PatchOperationReplace">
 		<xpath>/Defs/SoundDef[defName="Interact_Rifle"]/subSounds/li/grains/li[clipPath="UI/WeaponHandling/HandleWeaponA"]/clipPath</xpath>
 		<value>
 			<clipPath>Interact/Interact_GlassDrumRifle</clipPath>
 		</value>
 	</li>
-
-			</operations>
-		</match>
+	</operations>
+			</match>
 	</Operation>
 
 </Patch>
