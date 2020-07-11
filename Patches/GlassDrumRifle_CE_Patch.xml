@@ -27,6 +27,7 @@
 					<hasStandardCommand>true</hasStandardCommand>
 					<defaultProjectile>Bullet_556x45mmNATO_FMJ</defaultProjectile>
 					<burstShotCount>5</burstShotCount>
+					<ticksBetweenBurstShots>6</ticksBetweenBurstShots>
 					<warmupTime>1.1</warmupTime>
 					<range>40</range>
 					<soundCast>Shot_GlassRifle</soundCast>
