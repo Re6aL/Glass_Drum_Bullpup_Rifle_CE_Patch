@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Glass Bullup Rifle CE Patch</name>
+	<name>Glass Bullpup Rifle CE Patch</name>
 	<author>RE6AL</author>
 
 	<url>https://github.com/Re6aL/Glass_Drum_Bullpup_Rifle_CE_Patch</url>
@@ -21,5 +21,8 @@
 	
 	<description>
 Patches the Glass Bullup Rifle Mod to work with Combat Extended. Must load after CE and Glass Rifle itself.
-    </description>
+Changes Shot sound to a new one. Adds RunAndGun rule.
+
+This is my first ever publication on Steam. I just recently taught myself how to do it by comparing the code and looking into other mods. If you have any suggestions on the balance or content you are very welcome. I hope to publish a couple of my own mods such as hairstyles and guns. For now you can find them on my Github: https://github.com/Re6aL
+	</description>
 </ModMetaData>
