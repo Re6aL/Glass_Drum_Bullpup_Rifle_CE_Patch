@@ -20,7 +20,7 @@
 	</modDependencies>
 	
 	<description>
-Patches the Glass Bullup Rifle Mod to work with Combat Extended. Must load after CE and Glass Rifle itself.
+Patches the Glass Bullpup Rifle Mod to work with Combat Extended. Must load after CE and Glass Rifle itself.
 Changes Shot sound to a new one. Adds RunAndGun rule.
 
 This is my first ever publication on Steam. I just recently taught myself how to do it by comparing the code and looking into other mods. If you have any suggestions on the balance or content you are very welcome. I hope to publish a couple of my own mods such as hairstyles and guns. For now you can find them on my Github: https://github.com/Re6aL
