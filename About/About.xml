@@ -18,6 +18,10 @@
      	<steamWorkshopUrl>steam://url/CommunityFilePage/1967130419</steamWorkshopUrl>
     </li>
 	</modDependencies>
+	<loadAfter>
+	<li>CETeam.CombatExtended</li>
+	<li>Chowdurr.Glassdrumrifle</li>
+	</loadAfter>
 	
 	<description>
 Patches the Glass Bullpup Rifle Mod to work with Combat Extended. Must load after CE and Glass Rifle itself.
